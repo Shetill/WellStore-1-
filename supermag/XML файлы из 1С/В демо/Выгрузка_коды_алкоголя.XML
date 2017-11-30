@@ -1,0 +1,757 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PACKAGE>
+	<POSTOBJECT description="Классификатор алкогольной продукции" action="normal">
+		<Id>RFSASPIRITCODE</Id>
+		<RFSASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>10</ID>
+				<CODE>10</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>1</POSITION>
+				<TITLE>Спирт-сырец этиловый из пищевого сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>20</ID>
+				<CODE>20</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>2</POSITION>
+				<TITLE>Спирт этиловый ректификованный из пищевого сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>25</ID>
+				<CODE>25</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>3</POSITION>
+				<TITLE>Спирт этиловый ректификованный из непищевого растительного сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>30</ID>
+				<CODE>30</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>4</POSITION>
+				<TITLE>Спирт этиловый из ЭАФ &lt;**&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>31</ID>
+				<CODE>31</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>5</POSITION>
+				<TITLE>Спирт этиловый из головной фракции этилового спирта</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>40</ID>
+				<CODE>40</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>6</POSITION>
+				<TITLE>Спирт этиловый синтетический</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>50</ID>
+				<CODE>50</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>7</POSITION>
+				<TITLE>Спирт этиловый абсолютированный</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>60</ID>
+				<CODE>60</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>8</POSITION>
+				<TITLE>Другие спирты за исключением денатурированных (гидролизный, технический и другие)</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>70</ID>
+				<CODE>70</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>9</POSITION>
+				<TITLE>Спирт этиловый денатурированный из пищевого сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>71</ID>
+				<CODE>71</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>10</POSITION>
+				<TITLE>Биоэтанол из пищевого сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>80</ID>
+				<CODE>80</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>11</POSITION>
+				<TITLE>Спирт этиловый денатурированный из непищевого сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>81</ID>
+				<CODE>81</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>12</POSITION>
+				<TITLE>Биоэтанол из непищевого сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>90</ID>
+				<CODE>90</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>13</POSITION>
+				<TITLE>Фракция головная этилового спирта</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>91</ID>
+				<CODE>91</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>14</POSITION>
+				<TITLE>Фракция головных и промежуточных примесей этилового спирта</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>92</ID>
+				<CODE>92</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>15</POSITION>
+				<TITLE>Промежуточная фракция этилового спирта из пищевого сырья</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>100</ID>
+				<CODE>100</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>16</POSITION>
+				<TITLE>Спирт этиловый по фармакопейным статьям</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>110</ID>
+				<CODE>110</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>17</POSITION>
+				<TITLE>Коньячный дистиллят</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>120</ID>
+				<CODE>120</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>18</POSITION>
+				<TITLE>Кальвадосный дистиллят</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>130</ID>
+				<CODE>130</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>19</POSITION>
+				<TITLE>Винный дистиллят</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>140</ID>
+				<CODE>140</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>20</POSITION>
+				<TITLE>Спирт этиловый питьевой &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>150</ID>
+				<CODE>150</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>21</POSITION>
+				<TITLE>Виноградный дистиллят</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>160</ID>
+				<CODE>160</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>22</POSITION>
+				<TITLE>Плодовый дистиллят &lt;**&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>161</ID>
+				<CODE>161</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>23</POSITION>
+				<TITLE>Фруктовый (плодовый) дистиллят</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>170</ID>
+				<CODE>170</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>24</POSITION>
+				<TITLE>Висковый дистиллят</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>180</ID>
+				<CODE>180</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>25</POSITION>
+				<TITLE>Зерновой дистиллят</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>190</ID>
+				<CODE>190</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>26</POSITION>
+				<TITLE>Другие дистилляты</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>200</ID>
+				<CODE>200</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>27</POSITION>
+				<TITLE>Водка</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>211</ID>
+				<CODE>211</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>28</POSITION>
+				<TITLE>Ликероводочные изделия с содержанием этилового спирта до 25% включительно</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>212</ID>
+				<CODE>212</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>29</POSITION>
+				<TITLE>Ликероводочные изделия с содержанием этилового спирта свыше 25%</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>229</ID>
+				<CODE>229</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>30</POSITION>
+				<TITLE>Коньяк и арманьяк, реализуемые в бутылках</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>230</ID>
+				<CODE>230</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>31</POSITION>
+				<TITLE>Коньяки, реализуемые в бутылках &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>231</ID>
+				<CODE>231</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>32</POSITION>
+				<TITLE>Коньяки обработанные, предназначенные для отгрузки с целью розлива на других предприятиях или промпе</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>232</ID>
+				<CODE>232</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>33</POSITION>
+				<TITLE>Бренди</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>233</ID>
+				<CODE>233</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>34</POSITION>
+				<TITLE>Коньяк с защищенным географическим указанием</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>234</ID>
+				<CODE>234</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>35</POSITION>
+				<TITLE>Коньяк с защищенным наименованием места происхождения</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>235</ID>
+				<CODE>235</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>36</POSITION>
+				<TITLE>Коньяк коллекционный</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>236</ID>
+				<CODE>236</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>37</POSITION>
+				<TITLE>Ромы</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>237</ID>
+				<CODE>237</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>38</POSITION>
+				<TITLE>Виски</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>238</ID>
+				<CODE>238</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>39</POSITION>
+				<TITLE>Напитки коньячные с содержанием этилового спирта до 25% включительно &lt;**&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>239</ID>
+				<CODE>239</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>40</POSITION>
+				<TITLE>Напитки коньячные с содержанием этилового спирта свыше 25% &lt;**&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>241</ID>
+				<CODE>241</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>41</POSITION>
+				<TITLE>Напитки коньячные, бренди с содержанием этилового спирта до 25% включительно &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>242</ID>
+				<CODE>242</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>42</POSITION>
+				<TITLE>Напитки коньячные, бренди с содержанием этилового спирта свыше 25% &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>250</ID>
+				<CODE>250</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>43</POSITION>
+				<TITLE>Напитки винные с содержанием этилового спирта до 25% включительно &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>251</ID>
+				<CODE>251</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>44</POSITION>
+				<TITLE>Напитки винные с содержанием этилового спирта свыше 25% &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>252</ID>
+				<CODE>252</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>45</POSITION>
+				<TITLE>Кальвадос</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>260</ID>
+				<CODE>260</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>46</POSITION>
+				<TITLE>Слабоалкогольная продукция</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>261</ID>
+				<CODE>261</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>47</POSITION>
+				<TITLE>Сидр</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>262</ID>
+				<CODE>262</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>48</POSITION>
+				<TITLE>Пуаре</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>263</ID>
+				<CODE>263</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>49</POSITION>
+				<TITLE>Медовуха (медовые напитки)</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>270</ID>
+				<CODE>270</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>50</POSITION>
+				<TITLE>Другие спиртные напитки с содержанием этилового спирта до 25% включительно</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>280</ID>
+				<CODE>280</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>51</POSITION>
+				<TITLE>Другие спиртные напитки с содержанием этилового спирта свыше 25%</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>300</ID>
+				<CODE>300</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>52</POSITION>
+				<TITLE>Коньячные спирты &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>310</ID>
+				<CODE>310</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>53</POSITION>
+				<TITLE>Кальвадосные спирты &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>320</ID>
+				<CODE>320</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>54</POSITION>
+				<TITLE>Виноматериалы &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>321</ID>
+				<CODE>321</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>55</POSITION>
+				<TITLE>Виноматериалы виноградные</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>322</ID>
+				<CODE>322</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>56</POSITION>
+				<TITLE>Виноматериалы фруктовые (плодовые)</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>323</ID>
+				<CODE>323</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>57</POSITION>
+				<TITLE>Специальные виноматериалы виноградные</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>324</ID>
+				<CODE>324</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>58</POSITION>
+				<TITLE>Специальные виноматериалы фруктовые (плодовые)</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>330</ID>
+				<CODE>330</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>59</POSITION>
+				<TITLE>Соки спиртованные</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>331</ID>
+				<CODE>331</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>60</POSITION>
+				<TITLE>Соки сброженно-спиртованные</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>340</ID>
+				<CODE>340</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>61</POSITION>
+				<TITLE>Дистилляты &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>341</ID>
+				<CODE>341</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>62</POSITION>
+				<TITLE>Фруктовое сусло</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>342</ID>
+				<CODE>342</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>63</POSITION>
+				<TITLE>Медовое сусло</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>343</ID>
+				<CODE>343</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>64</POSITION>
+				<TITLE>Пивное сусло</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>344</ID>
+				<CODE>344</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>65</POSITION>
+				<TITLE>Виноградное сусло</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>345</ID>
+				<CODE>345</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>66</POSITION>
+				<TITLE>Спиртованное виноградное сусло (мистель)</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>346</ID>
+				<CODE>346</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>67</POSITION>
+				<TITLE>Спиртованное фруктовое сусло</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>350</ID>
+				<CODE>350</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>68</POSITION>
+				<TITLE>Другая спиртосодержащая пищевая продукция</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>400</ID>
+				<CODE>400</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>69</POSITION>
+				<TITLE>Вина натуральные &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>401</ID>
+				<CODE>401</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>70</POSITION>
+				<TITLE>Вино (виноградное)</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>402</ID>
+				<CODE>402</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>71</POSITION>
+				<TITLE>Вино с защищенным географическим указанием или с защищенным наименованием места происхождения &lt;**&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>403</ID>
+				<CODE>403</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>72</POSITION>
+				<TITLE>Вино (виноградное столовое)</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>404</ID>
+				<CODE>404</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>73</POSITION>
+				<TITLE>Вино с защищенным географическим указанием</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>405</ID>
+				<CODE>405</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>74</POSITION>
+				<TITLE>Вино с защищенным наименованием места происхождения</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>406</ID>
+				<CODE>406</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>75</POSITION>
+				<TITLE>Вино коллекционное виноградное</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>410</ID>
+				<CODE>410</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>76</POSITION>
+				<TITLE>Вина (за исключением натуральных, игристых и шампанских) &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>411</ID>
+				<CODE>411</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>77</POSITION>
+				<TITLE>Ликерное вино</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>412</ID>
+				<CODE>412</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>78</POSITION>
+				<TITLE>Ликерное вино с защищенным географическим указанием</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>413</ID>
+				<CODE>413</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>79</POSITION>
+				<TITLE>Ликерное вино с защищенным наименованием места происхождения</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>414</ID>
+				<CODE>414</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>80</POSITION>
+				<TITLE>Вино (столовое) с защищенным географическим указанием</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>415</ID>
+				<CODE>415</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>81</POSITION>
+				<TITLE>Вино (столовое) с защищенным наименованием места происхождения</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>416</ID>
+				<CODE>416</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>82</POSITION>
+				<TITLE>Вино (столовое) коллекционное</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>420</ID>
+				<CODE>420</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>83</POSITION>
+				<TITLE>Вина плодовые &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>421</ID>
+				<CODE>421</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>84</POSITION>
+				<TITLE>Фруктовое (плодовое) вино</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>422</ID>
+				<CODE>422</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>85</POSITION>
+				<TITLE>Вино коллекционное фруктовое</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>430</ID>
+				<CODE>430</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>86</POSITION>
+				<TITLE>Вино специальное с защищенным географическим указанием</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>431</ID>
+				<CODE>431</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>87</POSITION>
+				<TITLE>Вино специальное с защищенным наименованием места происхождения</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>432</ID>
+				<CODE>432</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>88</POSITION>
+				<TITLE>Вино ароматизированное виноградное</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>440</ID>
+				<CODE>440</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>89</POSITION>
+				<TITLE>Вина игристые</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>441</ID>
+				<CODE>441</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>90</POSITION>
+				<TITLE>Вина игристые с защищенным географическим указанием</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>442</ID>
+				<CODE>442</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>91</POSITION>
+				<TITLE>Вина игристые с защищенным наименованием места происхождения</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>443</ID>
+				<CODE>443</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>92</POSITION>
+				<TITLE>Вина игристые коллекционные</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>450</ID>
+				<CODE>450</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>93</POSITION>
+				<TITLE>Вина шампанские</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>451</ID>
+				<CODE>451</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>94</POSITION>
+				<TITLE>Вина шампанские с защищенным географическим указанием</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>452</ID>
+				<CODE>452</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>95</POSITION>
+				<TITLE>Вина шампанские с защищенным наименованием места происхождения</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>453</ID>
+				<CODE>453</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>96</POSITION>
+				<TITLE>Вина шампанские коллекционные</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>460</ID>
+				<CODE>460</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>97</POSITION>
+				<TITLE>Другие вина &lt;*&gt;</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>461</ID>
+				<CODE>461</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>98</POSITION>
+				<TITLE>Винный напиток, произведенный без добавления этилового спирта</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>462</ID>
+				<CODE>462</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>99</POSITION>
+				<TITLE>Винный напиток, произведенный с добавлением этилового спирта</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>481</ID>
+				<CODE>481</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>100</POSITION>
+				<TITLE>Парфюмерно-косметическая продукция</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>482</ID>
+				<CODE>482</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>101</POSITION>
+				<TITLE>Товары бытовой химии</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>483</ID>
+				<CODE>483</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>102</POSITION>
+				<TITLE>Спиртосодержащие растворы</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>484</ID>
+				<CODE>484</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>103</POSITION>
+				<TITLE>Другая спиртосодержащая непищевая продукция</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>485</ID>
+				<CODE>485</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>104</POSITION>
+				<TITLE>Денатурированная спиртосодержащая непищевая продукция</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>500</ID>
+				<CODE>500</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>105</POSITION>
+				<TITLE>Пиво с содержанием объемной доли этилового спирта свыше 0,5% и до 8,6% включительно</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>510</ID>
+				<CODE>510</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>106</POSITION>
+				<TITLE>Пиво с содержанием объемной доли этилового спирта свыше 8,6%</TITLE>
+			</SASPIRITCODE>
+			<SASPIRITCODE>
+				<ID>520</ID>
+				<CODE>520</CODE>
+				<ISBEER>0</ISBEER>
+				<POSITION>107</POSITION>
+				<TITLE>Напитки, изготавливаемые на основе пива</TITLE>
+			</SASPIRITCODE>
+		</RFSASPIRITCODE>
+	</POSTOBJECT>
+</PACKAGE>
